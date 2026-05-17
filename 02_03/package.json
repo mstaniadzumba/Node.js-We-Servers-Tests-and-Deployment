@@ -15,6 +15,7 @@
   "author": "Tania Dzumba",
   "license": "MIT",
   "dependencies": {
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "tiny-timer": "^1.6.0"
   }
 }
